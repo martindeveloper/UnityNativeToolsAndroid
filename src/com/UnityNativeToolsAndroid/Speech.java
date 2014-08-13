@@ -1,4 +1,4 @@
-package com.pria.svettechniky.UnityNativeToolsAndroid;
+package com.UnityNativeToolsAndroid;
 
 import android.content.Context;
 import android.speech.tts.TextToSpeech;
